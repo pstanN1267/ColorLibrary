@@ -1,0 +1,199 @@
+id,brand,range,name,hex
+1,Citadel,Base,Abaddon Black,#231F20
+2,Citadel,Base,Averland Sunset,#FDB825
+3,Citadel,Base,Balthasar Gold (Metal),#A47552
+4,Citadel,Base,Bugmans Glow,#834F44
+5,Citadel,Base,Caledor Sky,#396E9E
+6,Citadel,Base,Caliban Green,#00401F
+7,Citadel,Base,Castellan Green,#314821
+8,Citadel,Base,Celestra Grey,#90A8A8
+9,Citadel,Base,Ceramite White,#FFFFFF
+10,Citadel,Base,Daemonette Hide,#696684
+11,Citadel,Base,Death Guard Green,#848A66
+12,Citadel,Base,Deathworld Forest,#5C6730
+13,Citadel,Base,Dryad Bark,#33312D
+14,Citadel,Base,Incubi Darkness,#0B474A
+15,Citadel,Base,Jokaero Orange,#EE3823
+16,Citadel,Base,Kantor Blue,#002151
+17,Citadel,Base,Khorne Red,#6A0001
+18,Citadel,Base,Leadbelcher (Metal),#888D8F
+19,Citadel,Base,Macragge Blue,#0D407F
+20,Citadel,Base,Mechanicus Standard Grey,#3D4B4D
+21,Citadel,Base,Mephiston Red,#9A1115
+22,Citadel,Base,Mournfang Brown,#640909
+23,Citadel,Base,Naggaroth Night,#3D3354
+24,Citadel,Base,Rakarth Flesh,#A29E91
+25,Citadel,Base,Ratskin Flesh,#AD6B4C
+26,Citadel,Base,Retributor Armour (Metal),#C39E81
+27,Citadel,Base,Rhinox Hide,#493435
+28,Citadel,Base,Screamer Pink,#7C1645
+29,Citadel,Base,Screaming Bell (Metal),#C16F45
+30,Citadel,Base,Steel Legion Drab,#5E5134
+31,Citadel,Base,Stegadon Scale Green,#074863
+32,Citadel,Base,The Fang Grey,#436174
+33,Citadel,Base,Thousand Sons Blue,#18ABCC
+34,Citadel,Base,Waaagh! Flesh,#1F5429
+35,Citadel,Base,Warplock Bronze (Metal),#927D7B
+36,Citadel,Base,XV-88,#72491E
+37,Citadel,Base,Zandri Dust,#9E915C
+38,Citadel,Layer,Administratum Grey,#949B95
+39,Citadel,Layer,Ahriman Blue,#1F8C9C
+40,Citadel,Layer,Alaitoc Blue,#295788
+41,Citadel,Layer,Altdorf Guard Blue,#1F56A7
+42,Citadel,Layer,Auric Armour Gold (Metal),#E8BC6D
+43,Citadel,Layer,Balor Brown,#8B5910
+44,Citadel,Layer,Baneblade Brown,#937F6D
+45,Citadel,Layer,Bestigor Flesh,#D38A57
+46,Citadel,Layer,Brass Scorpion (Metal),#B7885F
+47,Citadel,Layer,Cadian Fleshtone,#C77958
+48,Citadel,Layer,Calgar Blue,#4272B8
+49,Citadel,Layer,Dark Reaper,#3B5150
+50,Citadel,Layer,Dawnstone,#70756E
+51,Citadel,Layer,Deathclaw Brown,#B36853
+52,Citadel,Layer,Doombull Brown,#5D0009
+53,Citadel,Layer,Elysian Green,#748F39
+54,Citadel,Layer,Emperors Children,#B94278
+55,Citadel,Layer,Eshin Grey,#4A4F52
+56,Citadel,Layer,Evil Sunz Scarlet,#C2191F
+57,Citadel,Layer,Fenrisian Grey,#719BB7
+58,Citadel,Layer,Fire Dragon Bright,#F58652
+59,Citadel,Layer,Flash Gitz Yellow,#FFF200
+60,Citadel,Layer,Flayed One Flesh,#F0D9B8
+61,Citadel,Layer,Fulgurite Copper (Metal),#FCFCDE
+62,Citadel,Layer,Gehenna's Gold (Metal),#DBA674
+63,Citadel,Layer,Genestealer Purple,#7761AB
+64,Citadel,Layer,Gorthor Brown,#654741
+65,Citadel,Layer,Hashut Copper (Metal),#B77647
+66,Citadel,Layer,Hoeth Blue,#4C7FB4
+67,Citadel,Layer,Ironbreaker (Metal),#A1A6A9
+68,Citadel,Layer,Kabalite Green,#038C67
+69,Citadel,Layer,Karak Stone,#BB9662
+70,Citadel,Layer,Kislev Flesh,#D6A875
+71,Citadel,Layer,Liberator Gold (Metal),#D3B587
+72,Citadel,Layer,Loren Forest,#50702D
+73,Citadel,Layer,Lothern Blue,#34A2CF
+74,Citadel,Layer,Moot Green,#52B244
+75,Citadel,Layer,Nurgling Green,#849C63
+76,Citadel,Layer,Ogryn Camo,#9DA94B
+77,Citadel,Layer,Pallid Wych Flesh,#CDCEBE
+78,Citadel,Layer,Pink Horror,#90305D
+79,Citadel,Layer,Runefang Steel (Metal),#C3CACE
+80,Citadel,Layer,Runelord Brass (Metal),#B6A89A
+81,Citadel,Layer,Russ Grey,#547588
+82,Citadel,Layer,Screaming Skull,#D2D4A2
+83,Citadel,Layer,Skarsnik Green,#5F9370
+84,Citadel,Layer,Skavenblight Dinge,#47413B
+85,Citadel,Layer,Skrag Brown,#90490F
+86,Citadel,Layer,Skullcrusher Brass (Metal),#F1C78E
+87,Citadel,Layer,Slaanesh Grey,#8E8C97
+88,Citadel,Layer,Sotek Green,#0B6974
+89,Citadel,Layer,Squig Orange,#AA4F44
+90,Citadel,Layer,Stormhost Silver (Metal),#BBC6C9
+91,Citadel,Layer,Stormvermin Fur,#736B65
+92,Citadel,Layer,Straken Green,#628126
+93,Citadel,Layer,Sybarite Green,#30A56C
+94,Citadel,Layer,Sycorax Bronze (Metal),#CBB394
+95,Citadel,Layer,Tallarn Sand,#A67610
+96,Citadel,Layer,Tau Light Ochre,#BF6E1D
+97,Citadel,Layer,Teclis Blue,#317EC1
+98,Citadel,Layer,Temple Guard Blue,#339A8D
+99,Citadel,Layer,Thunderhawk Blue,#417074
+100,Citadel,Layer,Troll Slayer Orange,#F36D2D
+101,Citadel,Layer,Tuskgor Fur,#883636
+102,Citadel,Layer,Ulthuan Grey,#C7E0D9
+103,Citadel,Layer,Ungor Flesh,#D6A766
+104,Citadel,Layer,Ushabti Bone,#BBBB7F
+105,Citadel,Layer,Warboss Green,#3E805D
+106,Citadel,Layer,Warpfiend Grey,#6B6A74
+107,Citadel,Layer,Warpstone Glow,#1E7331
+108,Citadel,Layer,Wazdakka Red,#8C0A0C
+109,Citadel,Layer,White Scar,#FFFFFF
+110,Citadel,Layer,Wild Rider Red,#EA2F28
+111,Citadel,Layer,Xereus Purple,#471F5F
+112,Citadel,Layer,Yriel Yellow,#FFDA00
+113,Citadel,Layer,Zamesi Desert,#DDA026
+114,Citadel,Shade,Agrax Earthshade,#5A573F
+115,Citadel,Shade,Agrax Earthshade (Gloss),#5A573F
+116,Citadel,Shade,Athonian Camoshade,#6D8E44
+117,Citadel,Shade,Biel-Tan Green,#1BA169
+118,Citadel,Shade,Carroburg Crimson,#A82A70
+119,Citadel,Shade,Casandora Yellow,#FECE5A
+120,Citadel,Shade,Coelia Greenshade,#0E7F78
+121,Citadel,Shade,Drakenhof Nightshade,#125899
+122,Citadel,Shade,Druchii Violet,#7A468C
+123,Citadel,Shade,Fuegan Orange,#C77E4D
+124,Citadel,Shade,Nuln Oil,#14100E
+125,Citadel,Shade,Nuln Oil (Gloss),#14100E
+126,Citadel,Shade,Reikland Fleshshade,#CA6C4D
+127,Citadel,Shade,Reikland Fleshshade (Gloss),#CA6C4D
+128,Citadel,Shade,Seraphim Sepia,#D7824B
+129,Citadel,Dry,Astorath Red,#DD482B
+130,Citadel,Dry,Changeling Pink,#F4AFCD
+131,Citadel,Dry,Chronus Blue,#72A8D1
+132,Citadel,Dry,Dawnstone,#919C9F
+133,Citadel,Dry,Eldar Flesh,#ECC083
+134,Citadel,Dry,Etherium Blue,#A2BAD2
+135,Citadel,Dry,Golden Griffon (Metal),#A99058
+136,Citadel,Dry,Golgfag Brown,#C2804F
+137,Citadel,Dry,Hellion Green,#84C3AA
+138,Citadel,Dry,Hexos Palesun,#FFF200
+139,Citadel,Dry,Hoeth Blue,#57A9D4
+140,Citadel,Dry,Imrik Blue,#67AED0
+141,Citadel,Dry,Kindleflame,#F79E86
+142,Citadel,Dry,Longbeard Grey,#CECEAF
+143,Citadel,Dry,Lucius Lilac,#B69FCC
+144,Citadel,Dry,Necron Compound (Metal),#828B8E
+145,Citadel,Dry,Niblet Green,#7DC734
+146,Citadel,Dry,Nurgling Green,#B8CC82
+147,Citadel,Dry,Praxeti White,#FFFFFF
+148,Citadel,Dry,Ryza Rust,#EC631A
+149,Citadel,Dry,Sigmarite,#CAAD76
+150,Citadel,Dry,Skink Blue,#58C1CD
+151,Citadel,Dry,Slaanesh Grey,#DBD5E6
+152,Citadel,Dry,Stormfang,#80A7C1
+153,Citadel,Dry,Sylvaneth Bark,#AC8262
+154,Citadel,Dry,Terminatus Stone,#BDB192
+155,Citadel,Dry,Thunderhawk Blue,#509BA9
+156,Citadel,Dry,Tyrant Skull,#CDC586
+157,Citadel,Dry,Underhive Ash,#C0BD81
+158,Citadel,Dry,Verminlord Hide,#A16954
+159,Citadel,Dry,Wrack White,#FCFBFA
+160,Citadel,Edge,Baharroth Blue,#58C1CD
+161,Citadel,Edge,Blue Horror,#A2BAD2
+162,Citadel,Edge,Dechala Lilac,#B69FCC
+163,Citadel,Edge,Dorn Yellow,#FFF200
+164,Citadel,Edge,Fulgrim Pink,#F4AFCD
+165,Citadel,Edge,Gauss Blaster Green,#84C3AA
+166,Citadel,Edge,Krieg Khaki,#C0BD81
+167,Citadel,Edge,Lugganath Orange,#F79E86
+168,Citadel,Glaze,Bloodletter,#F37355
+169,Citadel,Glaze,Guilliman Blue,#2F9AD6
+170,Citadel,Glaze,Lamenters Yellow,#FFF56B
+171,Citadel,Glaze,Waywatcher Green,#6DC066
+172,Citadel,Texture,Agrellan Badland,
+173,Citadel,Texture,Agrellan Earth,
+174,Citadel,Texture,Armageddon Dust,#D3A907
+175,Citadel,Texture,Armageddon Dunes,
+176,Citadel,Texture,Astrogranite,#757679
+177,Citadel,Texture,Astrogranite Debris,
+178,Citadel,Texture,Blackfire Earth,#A75820
+179,Citadel,Texture,Lustrian Undergrowth,#415A09
+180,Citadel,Texture,Martian Ironcrust,
+181,Citadel,Texture,Martian Ironearth,
+182,Citadel,Texture,Mourn Mountain Snow,#E9EAEB
+183,Citadel,Texture,Stirland Battlemire,
+184,Citadel,Texture,Stirland Mud,#492B00
+185,Citadel,Texture,Valhallan Blizzard,
+186,Citadel,Technical,Ardcoat,#E2DEDF
+187,Citadel,Technical,Agrellan Earth,#9A816B
+188,Citadel,Technical,Blood for the Blood God,#67080B
+189,Citadel,Technical,Imperial Primer,#231F20
+190,Citadel,Technical,Lahmian Medium,#F5EDE2
+191,Citadel,Technical,Liquid Green Stuff,#3B7A5F
+192,Citadel,Technical,Martian Ironearth,#C15A4B
+193,Citadel,Technical,Nihilakh Oxide,#6CB79E
+194,Citadel,Technical,Nurgle's Rot,#9B8F22
+195,Citadel,Technical,Soulstone Blue,#004EFA
+196,Citadel,Technical,Spiritstone Red,#FF4B24
+197,Citadel,Technical,Typhus Corrosion,#463D2B
+198,Citadel,Technical,Waystone Green,#00C000
