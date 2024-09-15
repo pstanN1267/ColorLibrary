@@ -1,0 +1,13 @@
+Przed załadowaniem aplikacji należy wykonąc instrukcje w db_template.properties
+Aplikacja posiada pełną komunikację miedzy bazą danych H2, a aplikacją. Można to sprawdzić za pomocą SwaggerUI w który apliakcja została wyposażona
+Dodawanie farbek odbywa się za pomocą controllera (Post) Należy wpisać:
+brand: Citadel
+range: Base
+name: Caliban Green
+lub inną pozycję która znajduje się w pliku StockColors.CSV
+
+Listowanie pozycji odbywa się poprzez GET w Controllerze
+Usuwanie farbek odbywa się poprzez DELETE gdzie wpisujemy ID dodanej farbki, którą mamy z listowania 
+
+Listowanie wszystkich farbek mamy w stock-paints-controller 
+Repozytorium niedokończonego FrontEndu znajduje się pod adresem https://github.com/pstanN1267/colorLibrary-front/settings
