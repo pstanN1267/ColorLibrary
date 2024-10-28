@@ -1,3 +1,10 @@
+# Piotr Stanik, projekt końcony Nazwa: ColorLibrary
+## Funkcjonalności aplikacji:
+    Bazę danych z podstawowymi kolorami farb na podstawie, których użytkownik dodaje swoje farby
+    Diagram kołowy z podstawowymi kolorami (brak)
+    Diagram kołowy z posiadanymi farbami (brak)
+   
+
 # Backend aplikacji ColorLibrary
 
 Aplikacja posiada pełną komunikację miedzy bazą danych H2, a aplikacją. Można to sprawdzić za pomocą SwaggerUI w który aplikacja została wyposażona
