@@ -1,4 +1,5 @@
-# Piotr Stanik, projekt końcowy Nazwa: ColorLibrary
+# Piotr Stanik, Color Library
+ Projekt końcowy 
 ## Funkcjonalności aplikacji:
     Bazę danych z podstawowymi kolorami farb na podstawie, których użytkownik dodaje swoje farby
     Diagram kołowy z podstawowymi kolorami (brak)
