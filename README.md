@@ -4,7 +4,8 @@
     Bazę danych z podstawowymi kolorami farb na podstawie, których użytkownik dodaje swoje farby
     Diagram kołowy z podstawowymi kolorami (brak)
     Diagram kołowy z posiadanymi farbami (brak)
-   
+
+ Ideą aplikacji jest przedstawienie posiadanych farb w formie graficznej oraz tabelarycznej, ma to ułatwić identyfikację braków potrzebnych farb
 
 # Backend aplikacji ColorLibrary
 
