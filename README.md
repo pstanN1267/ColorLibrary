@@ -29,7 +29,7 @@ Aplikacja posiada pełną komunikację miedzy bazą danych H2, a aplikacją. Mo�
 ## Działanie
 Przed uruchomieniem aplikacji należy wykonąc instrukcje w db_template.properties
 
-Następnie wchodzimy na stronę http://localhost:8080/swagger-ui/index.html#/user-paints-controller/copyRow gdzie możemy dodawać, usuwać, oraz listować tabele UserPaints oraz Stock Paints
+Następnie wchodzimy na stronę http://localhost:8080/swagger-ui/index.html# gdzie możemy dodawać, usuwać, oraz listować tabele UserPaints oraz Stock Paints
 
 
    ## Dodawanie farbek
