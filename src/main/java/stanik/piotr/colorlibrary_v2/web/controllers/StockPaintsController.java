@@ -9,6 +9,7 @@ import stanik.piotr.colorlibrary_v2.repositories.StockPaintsRepository;
 import java.util.List;
 
 @RestController
+@CrossOrigin
 public class StockPaintsController {
 
 
