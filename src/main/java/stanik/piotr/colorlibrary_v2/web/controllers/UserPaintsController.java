@@ -9,6 +9,7 @@ import stanik.piotr.colorlibrary_v2.services.UserPaintsService;
 import java.util.List;
 
 @RestController
+@CrossOrigin
 public class UserPaintsController {
 
     @Autowired
