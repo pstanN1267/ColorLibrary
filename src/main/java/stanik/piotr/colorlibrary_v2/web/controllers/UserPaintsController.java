@@ -2,6 +2,7 @@ package stanik.piotr.colorlibrary_v2.web.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import stanik.piotr.colorlibrary_v2.entities.UserPaintsEntity;
 import stanik.piotr.colorlibrary_v2.repositories.UserPaintsRepository;
 import stanik.piotr.colorlibrary_v2.services.UserPaintsService;
