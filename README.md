@@ -2,17 +2,15 @@
  Projekt końcowy 
 ## Funkcjonalności aplikacji:
     Bazę danych z podstawowymi kolorami farb na podstawie, których użytkownik dodaje swoje farby
-    Diagram kołowy z podstawowymi kolorami (brak)
-    Diagram kołowy z posiadanymi farbami (brak)
 
- Ideą aplikacji jest przedstawienie posiadanych farb w formie graficznej oraz tabelarycznej, ma to ułatwić identyfikację braków potrzebnych farb
 
-# Backend aplikacji ColorLibrary
+ Ideą aplikacji jest przedstawienie posiadanych farb w tabeli, ma to ułatwić identyfikację braków potrzebnych farb
 
-Aplikacja posiada pełną komunikację miedzy bazą danych H2, a aplikacją. Można to sprawdzić za pomocą SwaggerUI w który aplikacja została wyposażona
 
-## Technologie
 
+
+# BackEnd
+Technologie:
 - Java 17
 - Spring Boot 3.3.2
   - Spring Data JPA
@@ -25,46 +23,60 @@ Aplikacja posiada pełną komunikację miedzy bazą danych H2, a aplikacją. Mo�
  - Java 17 lub nowszą
  - Apache Maven 3.x
 
-    Aby uruchomić aplikację należy sklonować repozytorium pod adresem https://github.com/pstanN1267/ColorLibrary
+# FrontEnd
+ Technologie
+
+- Html
+- Css
+- TypeScript
+- Angular 17.1.4
+  - Prettier
+  - Tailwind
+  
+ ## Wymagania
+ - Angular 17.1.4 lub nowszy
+
+ ## Uruchomienie
+    Aby uruchomić aplikację należy sklonować repozytoria: 
+    - https://github.com/pstanN1267/ColorLibrary 
+    - https://github.com/pstanN1267/colorLibrary-front
+    
 ## Działanie
 Przed uruchomieniem aplikacji należy wykonąc instrukcje w db_template.properties
 
-Następnie wchodzimy na stronę http://localhost:8080/swagger-ui/index.html# gdzie możemy dodawać, usuwać, oraz listować tabele UserPaints oraz Stock Paints
+Po uruchomieniu wchodzimy na http://localhost:4200
+
+![image](https://github.com/user-attachments/assets/3ca7e0c8-099a-44a5-8156-b438657a2ac4)
+
+Gdzie możemy kliknąć w "Add Paints" lub "Library"
+
+# Add Paints
+
+![image](https://github.com/user-attachments/assets/caa6da94-c891-4b9a-8f88-048a8e781c61)
+
+Back - cofa nas do ekranu startowego
+Library - przenosi do zakładki Library
+Add paint - umożliwia dodanie farbki
+
+Przykładowe dane:
+- Citadel Base Abaddon Black
+- Citadel Layer Calgar Blue
+- Citadel Base Averland Sunset
+- Citadel Base Bugmans Glow
+- Citadel Base Caledor Sky
+- Citadel Technical Waystone Green
+
+**!!!!WAŻNE** W razie jakichkolwiek błędów (literówka, spacja)  wyskoczy czerowny komunikat **Failed to add paint. Please try again.!!!!**
 
 
-   ## Dodawanie farbek
--  odbywa się za pomocą controllera metodą **Post**
--  Klikamy ![tryItOut](https://github.com/user-attachments/assets/e0724a90-5d37-4124-b437-a50817158357)
--  Wpisujemy brand: Citadel, range: Base, name: Abaddon Black, lub inną pozycję która znajduje się w pliku StockColors.CSV i klikamy **Execute**
-  ![post](https://github.com/user-attachments/assets/22360e68-4255-41d8-8d75-c8a2c46387e9)
-- Dostajemy odpowiedź:
-    -  z kodem 200 jeśli farbka została dodana to tabeli UserPaints
-       lub
-    -   kod 500 z komunikatem "Paint not found" w przypadku nazwy nie występującej w tabeli StockPaints lub  komunikat "Paint already added.", jeśli duplikujemy wiersz
-
-## Listowanie
-- Przechodzimy do metody **Get**
-- Analogicznie klikamy Try It out, a następnie Execute
- ![get](https://github.com/user-attachments/assets/200a191f-6984-4a85-9adf-a625d177f58b)
-- Otrzymujemy odpowiedź
-  ![image](https://github.com/user-attachments/assets/5c156669-9671-4bc5-9308-a2859462b59d)
+Tak powinna wyglądać tabela kolorów po poprawny dodaniu farbek
+Po najechaniu na kolor wyświetla nam się color hex 
+Mamy możliwość usunięcia dodanej farbki Xsem z prawej strony
+![image](https://github.com/user-attachments/assets/efc71615-4982-4ed7-9d07-dd64b86d77d2)
 
 
-## Usuwanie farbek
-- Przechodzimy do metody **Delete**
-- Klikamy Try it Out, następnie Wpisujemy Id, które uzyskujemy z listowania oraz Execute
-![image](https://github.com/user-attachments/assets/5763dbd0-41ee-45db-b8d8-04bec395a957)
-- Otrzymujemy odpowiedź z kodem 200, nawet jeśli wpiszemy nie istniejące Id.
-- Dla sprawdzenia listujemy ponownie, gdzie farbka, która dodaliśmy wcześniej została usunięta
+# Library
 
+Tutaj mamy tabelę ze wszystkimi dostępnymi farbami
 
-## Listowanie zbioru farbek bazowych
-- Przechodzimy do stock-paints-controller
-- W metodzie **Get** klikamy "Try it out"
-  ![image](https://github.com/user-attachments/assets/166efa1d-b398-4e66-8996-4534eb65ef27)
-- Otrzymujemy w odpowiedzi listę dostępnych farbek
-  
-![image](https://github.com/user-attachments/assets/c328650a-ac6a-48ba-afad-a9103d1dd37f)
-
-
-Repozytorium niedokończonego FrontEndu znajduje się pod adresem https://github.com/pstanN1267/colorLibrary-front
+![image](https://github.com/user-attachments/assets/b23dbebc-e31a-4ebb-ae14-82bce25a98de)
